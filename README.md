@@ -134,9 +134,12 @@
 | 🚀 Project | 🛠️ Tech Stack | 🔗 Live Link |
 |:---|:---|:---|
 | **🏰 3D Interactive Portfolio House** | React, Three.js, React Three Fiber, GSAP | [Live Demo](https://talal-portfolio-snowy.vercel.app) |
-| **🛠️ Maintenance Services Platform** | React, Node.js, Express, MongoDB, REST API | [Live App](http://54.144.78.175) |
+| **💎 Yasir Fragrances E-Commerce** | Next.js, React, Tailwind CSS, Manoo AI | [Live App](https://yasirfragrances.vercel.app/) |
+| **🍖 Raskoh Dumpukht Cuisine** | Next.js, React, TypeScript, Ordering Cart | [Live App](https://raskoh.vercel.app/) |
+| **🛠️ MaintainIQ Asset Platform** | Next.js, TypeScript, QR Asset History, Role Auth | [Live App](https://maintainiq-next.vercel.app/login) |
+| **🏠 TREV ROOFING Platform** | Next.js, React, Video Hero, Before/After Slider | [Live Demo](https://roofing-business-template-chi.vercel.app/) |
 | **🏧 ATM & Branch Finder Backend** | Node.js, Express, TypeScript, Playwright | [Live API](https://hackathon-sepia-eight.vercel.app/) |
-| **🎵 Balochi Music Player** | React, Audio State API, CSS3 | [Live App](https://music-player-pi-one.vercel.app/) |
+| **🎵 Balochi Simple Music Player** | React, Audio State API, CSS3 | [Live App](https://music-player-pi-one.vercel.app/) |
 | **🕒 Real-time Digital Clock** | JavaScript, CSS Glassmorphism, DOM Timers | [Live Demo](https://frontend-nine-hazel-fwbn3v6fs2.vercel.app/) |
 
 ---
