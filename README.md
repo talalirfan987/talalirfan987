@@ -117,13 +117,13 @@
 
 <div align="center">
   <a href="https://github.com/talalirfan987">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=talalirfan987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff" alt="Talal's GitHub Stats" />
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=talalirfan987&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff" alt="Talal's GitHub Streak" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talalirfan987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff" alt="Talal's GitHub Stats" />
+    <img height="165em" src="https://streak-stats.demolab.com/?user=talalirfan987&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff" alt="Talal's GitHub Streak" />
   </a>
   <br><br>
   <a href="https://github.com/talalirfan987">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalirfan987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff" alt="Top Languages" />
-    <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=talalirfan987&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d8ff" alt="Activity Graph" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talalirfan987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff" alt="Top Languages" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talalirfan987&theme=tokyonight" alt="Profile Details" />
   </a>
 </div>
 
