@@ -129,18 +129,110 @@
 
 ---
 
-### 🌟 Featured Live Projects
+### 🌟 Featured Live Applications & Production Projects
 
-| 🚀 Project | 🛠️ Tech Stack | 🔗 Live Link |
-|:---|:---|:---|
-| **🏰 3D Interactive Portfolio House** | React, Three.js, React Three Fiber, GSAP | [Live Demo](https://talal-portfolio-snowy.vercel.app) |
-| **💎 Yasir Fragrances E-Commerce** | Next.js, React, Tailwind CSS, Manoo AI | [Live App](https://yasirfragrances.vercel.app/) |
-| **🍖 Raskoh Dumpukht Cuisine** | Next.js, React, TypeScript, Ordering Cart | [Live App](https://raskoh.vercel.app/) |
-| **🛠️ MaintainIQ Asset Platform** | Next.js, TypeScript, QR Asset History, Role Auth | [Live App](https://maintainiq-next.vercel.app/login) |
-| **🏠 TREV ROOFING Platform** | Next.js, React, Video Hero, Before/After Slider | [Live Demo](https://roofing-business-template-chi.vercel.app/) |
-| **🏧 ATM & Branch Finder Backend** | Node.js, Express, TypeScript, Playwright | [Live API](https://hackathon-sepia-eight.vercel.app/) |
-| **🎵 Balochi Simple Music Player** | React, Audio State API, CSS3 | [Live App](https://music-player-pi-one.vercel.app/) |
-| **🕒 Real-time Digital Clock** | JavaScript, CSS Glassmorphism, DOM Timers | [Live Demo](https://frontend-nine-hazel-fwbn3v6fs2.vercel.app/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💎 Yasir Fragrances</h3>
+      <p align="center">
+        <a href="https://yasirfragrances.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Launch_Store-Live_App-c6a25a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>Luxury 50ml Pure Extrait De Parfum E-Commerce Store</strong></p>
+      <ul>
+        <li>✨ Signature scents (Shanu Noir, Marj, Bloom, Ambassador, Aura Oud)</li>
+        <li>🐱 Interactive <strong>"Manoo AI"</strong> Store Assistant chatbot</li>
+        <li>🎯 Scent Quiz recommendation engine & Wishlist/Cart</li>
+        <li>📦 Cash on Delivery nationwide checkout system</li>
+      </ul>
+      <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>TypeScript</code> • <code>Manoo AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍖 Raskoh Dumpukht</h3>
+      <p align="center">
+        <a href="https://raskoh.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Order_Food-Live_App-8B1D1D?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>Royal Shinwari & Balochi Dumpukht Cuisine Platform</strong></p>
+      <ul>
+        <li>🍖 Multi-category food menu (Mutton Specials, Beef Karahi, Sajji)</li>
+        <li>🛒 Real-time cart drawer with instant quantity controls</li>
+        <li>📍 Akhtar Colony branch locator & direct delivery routing</li>
+        <li>🏮 Royal kraft-paper and glowing lantern UI aesthetic</li>
+      </ul>
+      <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>TypeScript</code> • <code>Online Ordering</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ MaintainIQ</h3>
+      <p align="center">
+        <a href="https://maintainiq-next.vercel.app/login" target="_blank">
+          <img src="https://img.shields.io/badge/Access_Portal-Live_App-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>AI-Powered QR Asset Maintenance & Facilities Platform</strong></p>
+      <ul>
+        <li>🛡️ Role-based portals (Administrator & Technician views)</li>
+        <li>📱 Smart QR code tagging for equipment history & specs</li>
+        <li>🔧 Preventative maintenance scheduling & work orders</li>
+        <li>⚡ Modern dark theme UI with enterprise auth flow</li>
+      </ul>
+      <p><code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code> • <code>REST APIs</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 TREV ROOFING</h3>
+      <p align="center">
+        <a href="https://roofing-business-template-chi.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Platform-Live_Site-F5750F?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>Commercial & Residential Roofing Business Platform</strong></p>
+      <ul>
+        <li>🔄 Interactive Before/After roof replacement slider</li>
+        <li>🎥 High-definition video hero background with smooth scroll</li>
+        <li>🏗️ Residential, Commercial, and Industrial service hubs</li>
+        <li>📋 Free estimate calculator & instant quote lead forms</li>
+      </ul>
+      <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Video Hero</code> • <code>Responsive UI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏰 3D Interactive House</h3>
+      <p align="center">
+        <a href="https://talal-portfolio-snowy.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_3D-Live_Demo-00d8ff?style=for-the-badge&logo=three.js&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <p><strong>Interactive 3D Walkthrough Portfolio</strong></p>
+      <ul>
+        <li>🏠 Full 3D house navigation using React Three Fiber & Three.js</li>
+        <li>☕ Interactive 3D skill tea cups with floating physics</li>
+        <li>🎬 Smooth camera cinematic path animations powered by GSAP</li>
+      </ul>
+      <p><code>Three.js</code> • <code>React Three Fiber</code> • <code>GSAP</code> • <code>WebGL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏧 ATM Finder Backend</h3>
+      <p align="center">
+        <a href="https://hackathon-sepia-eight.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/API_Hub-Live_API-539e43?style=for-the-badge&logo=node.js&logoColor=white" alt="Live API" />
+        </a>
+      </p>
+      <p><strong>Bank ATM & Branch Locator Hub Across Pakistan</strong></p>
+      <ul>
+        <li>🤖 Automated Playwright scrapers for major Pakistani banks</li>
+        <li>🔒 Secure REST API with JWT auth and rate limiting</li>
+        <li>🌐 Integrated Cloudflare tunnels and seeding scripts</li>
+      </ul>
+      <p><code>Node.js</code> • <code>Express</code> • <code>TypeScript</code> • <code>Playwright</code> • <code>MongoDB</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
