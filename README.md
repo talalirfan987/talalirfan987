@@ -56,53 +56,45 @@
 
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
         <br><strong>React</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
         <br><strong>Node.js</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
         <br><strong>Express.js</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
         <br><strong>NestJS</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br><strong>JavaScript</strong>
       </td>
-      <td align="center" width="96">
+    </tr>
+    <tr>
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
         <br><strong>TypeScript</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
-        <br><strong>Three.js</strong>
-      </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
         <br><strong>MongoDB</strong>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
         <br><strong>HTML5</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
         <br><strong>CSS3</strong>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br><strong>Git</strong>
       </td>
@@ -113,17 +105,11 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🔥 GitHub Contributions & Streaks
 
 <div align="center">
   <a href="https://github.com/talalirfan987">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talalirfan987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff" alt="Talal's GitHub Stats" />
-    <img height="165em" src="https://streak-stats.demolab.com/?user=talalirfan987&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff" alt="Talal's GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/talalirfan987">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talalirfan987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d8ff" alt="Top Languages" />
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talalirfan987&theme=tokyonight" alt="Profile Details" />
+    <img width="85%" src="https://streak-stats.demolab.com/?user=talalirfan987&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff&currStreakNum=00d8ff&currStreakLabel=ffffff" alt="Talal's GitHub Contributions Streak" />
   </a>
 </div>
 
