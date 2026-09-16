@@ -158,15 +158,7 @@
         <li>🔧 Preventative maintenance scheduling & work orders</li>
         <li>⚡ Modern dark theme UI with enterprise auth flow</li>
       </ul>
-      <p><code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code> • <code>REST APIs</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 TREV ROOFING</h3>
-      <p align="center">
-        <a href="https://roofing-business-template-chi.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Platform-Live_Site-F5750F?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
-        </a>
-      </p>
+     
       <p><strong>Commercial & Residential Roofing Business Platform</strong></p>
       <ul>
         <li>🔄 Interactive Before/After roof replacement slider</li>
