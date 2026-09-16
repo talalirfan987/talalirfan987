@@ -193,6 +193,38 @@
       <p><code>Node.js</code> • <code>Express</code> • <code>TypeScript</code> • <code>Playwright</code> • <code>MongoDB</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎟️ Lucky Lottery</h3>
+      <p align="center">
+        <a href="https://aqeel-akbar.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Play_Now-Live_App-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>Secure Lottery Ticket Submission & Verification Platform</strong></p>
+      <ul>
+        <li>🎫 Submit, verify, and manage lottery ticket records with ease</li>
+        <li>💬 Built-in floating Support chat for instant assistance</li>
+        <li>🔒 Secure, streamlined ticket record-keeping workflow</li>
+      </ul>
+      <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Turbopack</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ SHOP.CO</h3>
+      <p align="center">
+        <a href="https://client-gold-three-38.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Shop_Now-Live_Store-09090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+        </a>
+      </p>
+      <p><strong>Modern E-Commerce Storefront Experience</strong></p>
+      <ul>
+        <li>🛒 Sleek, modern shopping UI for browsing & checkout</li>
+        <li>⚡ Blazing-fast single-page app powered by Vite</li>
+        <li>📱 Fully responsive, mobile-first storefront design</li>
+      </ul>
+      <p><code>React</code> • <code>Vite</code> • <code>JavaScript</code> • <code>E-Commerce</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
