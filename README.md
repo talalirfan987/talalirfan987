@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/talalirfan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:talairfan987@gmail.com">
+    <a href="mailto:talalirfan987@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -158,18 +158,8 @@
         <li>🔧 Preventative maintenance scheduling & work orders</li>
         <li>⚡ Modern dark theme UI with enterprise auth flow</li>
       </ul>
-     
-      <p><strong>Commercial & Residential Roofing Business Platform</strong></p>
-      <ul>
-        <li>🔄 Interactive Before/After roof replacement slider</li>
-        <li>🎥 High-definition video hero background with smooth scroll</li>
-        <li>🏗️ Residential, Commercial, and Industrial service hubs</li>
-        <li>📋 Free estimate calculator & instant quote lead forms</li>
-      </ul>
       <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Video Hero</code> • <code>Responsive UI</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏰 3D Interactive House</h3>
       <p align="center">
@@ -185,7 +175,9 @@
       </ul>
       <p><code>Three.js</code> • <code>React Three Fiber</code> • <code>GSAP</code> • <code>WebGL</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">🏧 ATM Finder Backend</h3>
       <p align="center">
         <a href="https://hackathon-sepia-eight.vercel.app/" target="_blank">
